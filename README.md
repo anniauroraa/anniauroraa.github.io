@@ -1,1 +1,3 @@
-Testing static sites. Phonebook UI from fullstack course exercise: [anniauroraa.github.io](anniauroraa.github.io)
+Design portfolio uploaded 23.1.2025
+
+url: [anniauroraa.github.io/portfolios/design-portfolio.pdf](anniauroraa.github.io/portfolios/design-portfolio.pdf)
